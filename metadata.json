@@ -1,0 +1,6 @@
+{
+  "name": "Boustro Reader - Modern High-Fidelity Document Reader",
+  "description": "High-fidelity modern document reader with 2D Boustrophedon auto-scrolling, TTS read-aloud sync highlighting, and multi-format document support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
